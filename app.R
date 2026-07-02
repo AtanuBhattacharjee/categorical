@@ -367,7 +367,7 @@ ui <- page_navbar(
   ),
 
   nav_spacer(),
-  nav_item(tags$span(class = "navbar-text", style = "color:#eaf2fb;font-weight:700;", "Dr. Atanu Bhattacharjee \u00b7 StatsCure Network"))
+  nav_item(tags$span(class = "navbar-text", style = "color:#eaf2fb;font-weight:700;", "StatsCure Network"))
 )
 
 # ============================================================================
